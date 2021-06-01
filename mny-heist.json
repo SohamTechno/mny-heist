@@ -266,7 +266,7 @@
          "id":"325729879010820_325731005677374"
       },
 	  {
-         "name":"homeScreenDelayedInterstitial",
+         "name":"homeScreenDelayedInterstitial1",
          "id":"325729879010820_325731155677359"
       },
 	  {
@@ -274,11 +274,11 @@
          "id":"325729879010820_325793472337794"
       },
 	  {
-         "name":"homeScreenScrollEndInterstitial1",
+         "name":"homeScreenDelayedInterstitial2",
          "id":"325729879010820_325793705671104"
       },
 	  {
-         "name":"homeScreenScrollEndInterstitial2",
+         "name":"homeScreenDelayedInterstitial3",
          "id":"325729879010820_325793865671088"
       },
 	  {
