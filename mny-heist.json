@@ -238,43 +238,55 @@
    ],
    "ads":[
       {
-         "name":"kBannerId1",
+         "name":"homeScreenUpperBanner",
          "id":"325729879010820_325730125677462"
       },
 	  {
-         "name":"kBannerId2",
+         "name":"homeScreenLowerBanner",
          "id":"325729879010820_325730335677441"
       },
 	  {
-         "name":"kBannerId3",
+         "name":"homeScreenIntermediateBanner",
          "id":"325729879010820_325730472344094"
       },
 	  {
-         "name":"kBannerId4",
+         "name":"playerScreenBanner1",
          "id":"325729879010820_325730632344078"
       },
 	  {
-         "name":"kBannerId5",
+         "name":"playerScreenBanner2",
          "id":"325729879010820_325730759010732"
       },
 	  {
-         "name":"kBannerId6",
+         "name":"playerScreenBanner3",
          "id":"325729879010820_325730875677387"
       },
 	  {
-         "name":"kInterstitialId1",
+         "name":"splashScreenInterstitial",
          "id":"325729879010820_325731005677374"
       },
 	  {
-         "name":"kInterstitialId2",
+         "name":"homeScreenDelayedInterstitial",
          "id":"325729879010820_325731155677359"
       },
 	  {
-         "name":"kInterstitialId3",
+         "name":"homeScreenBannerClickInterstitial",
+         "id":"325729879010820_325793472337794"
+      },
+	  {
+         "name":"homeScreenScrollEndInterstitial1",
+         "id":"325729879010820_325793705671104"
+      },
+	  {
+         "name":"homeScreenScrollEndInterstitial2",
+         "id":"325729879010820_325793865671088"
+      },
+	  {
+         "name":"playerScreenFirstDelayInterstitial",
          "id":"325729879010820_325731292344012"
       },
 	  {
-         "name":"kInterstitialId4",
+         "name":"playerScreenSecondDelayInterstitial",
          "id":"325729879010820_325731402344001"
       }
    ]
